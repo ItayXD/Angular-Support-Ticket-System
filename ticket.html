@@ -1,0 +1,49 @@
+<section class="panel panel-info">
+	<div class="panel-heading">
+		<div class="row">
+		    <h3 class="col-md-8	">#{{ticket.id}} {{ticket.subject}}</h3>
+		    <div class="col-md-2"><h4><span class="label label-danger">Priority: {{ticket.priority}}</span></h4></div>
+		    <div class="col-md-2"><div class="well well-sm"><p>Opened on: {{ticket.opened}}</p><p>Last updated on {{ticket.updated}}</p></div></div>
+	  	</div>
+	</div>
+	<div class="panel-body">
+		<p>{{ticket.content}}</p>
+	</div>
+</section>
+<section ng-repeat="message in messages">
+	<div class="panel panel-default">
+	  <div class="panel-heading">
+	  		<div class="row">
+		    <p class="col-md-2">#{{message.id}} {{message.username}}</p>
+		    <div class="col-md-2 col-md-offset-8"><p class="well well-sm">{{message.timestamp}}</p></div>
+	  		</div>
+	  	</div>
+		<div class="panel-body" ng-bind-html="message.content">
+		    {{message.content}}
+		</div>
+	</div>
+</section>
+<form class="panel panel-primary" ng-submit="newMsg()">
+	<div class="panel-heading">
+		<div class="row">
+		    <h3 class="col-md-10">New Massage</h3>
+		    <div class="col-md-2 form-group">
+		    	<select ng-model="newusr" class="form-control">
+		    		<option>User1</option>
+		    		<option>Support</option>
+		    	</select>
+		    </div>
+	  	</div>
+	</div>
+	<div class="panel-body">	
+		<div class="form-group">
+			<label for="messageContent">Message Content</label>
+			<textarea ng-model="newcntnt" class="form-control" rows="3" id="messageContent" placeholder="Insert your message here"></textarea>
+		</div>
+		<div class="form-group">
+			<div class="col-md-offset-11 col-md-1">
+			 	<button type="submit" class="btn btn-primary">Send!</button>
+			</div>
+		</div>
+	</div>
+</form>

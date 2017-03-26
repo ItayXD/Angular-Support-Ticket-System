@@ -1,0 +1,10 @@
+/*.main {
+	opacity: 0;
+}*/
+@keyframes trans2vis {
+	from {opacity: 0;}
+	to {opacity: 1;}
+}
+.ng-enter {
+	animation: trans2vis 0.5s both ease-in;
+}

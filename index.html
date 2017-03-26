@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" />
+	<link rel="stylesheet" href="/angular/style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"> </script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-route.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-animate.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-sanitize.js"></script>
+	<script src="/angular/app.js"></script>
+	<base href="/angular/index.html">
+</head>
+<body ng-controller="getTickets">
+		<header>
+				<nav class="navbar navbar-default">
+				<div class="container">
+						<div class="navbar-header">
+								<a class="navbar-brand" href="/">Angular Support Tickets System</a>
+						</div>
+
+						<ul class="nav navbar-nav navbar-right">
+								<li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+								<li><a href="newTicket"><i class="fa fa-comment"></i> Open new support ticket</a></li>
+								<li><a href=""><i class="fa fa-shield"></i> Users</a></li>
+						</ul>
+				</div>
+				</nav>
+		</header>
+
+		<div class="container">
+			<div class="table-responsive"">
+			<table class="table">
+				<tr>
+					<th>ID #</th>
+					<th>Subject</th>
+					<th>Priority</th>
+					<th>Status</th>
+					<th>Opened</th>
+					<th>Updated</th>
+				</tr>
+				<tr ng-repeat="ticket in tickets">
+					<td><a href="ticket/{{ticket.id}}">{{ticket.id}}</a></td>
+					<td>{{ticket.subject}}</td>
+					<td>{{ticket.priority}}</td>
+					<td>{{ticket.status}}</td>
+					<td>{{ticket.opened}}</td>
+					<td>{{ticket.updated}}</td>
+				</tr>
+			</table>
+			</div>	
+				<!-- angular templating -->
+				<!-- this is where content will be injected -->
+			<div class="main" ng-view></div>
+		</div>
+
+</body>
+</html>

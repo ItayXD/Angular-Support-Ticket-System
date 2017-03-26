@@ -1,0 +1,1211 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"new",
+				"newMsg"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"$sc",
+				"$scope\tAngularJS"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"from",
+				"form-control"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"ticket"
+			],
+			[
+				"angu",
+				"angular"
+			],
+			[
+				"ba",
+				"base\tTag"
+			],
+			[
+				"an",
+				"angular"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"sta",
+				"start_time"
+			],
+			[
+				"re",
+				"resolution"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"ch",
+				"check_time"
+			],
+			[
+				"E",
+				"EntityRecognizer"
+			],
+			[
+				"st",
+				"start_time"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"s",
+				"session"
+			],
+			[
+				"a",
+				"argument"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"time",
+				"timeFormat"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"al",
+				"alarm"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"cona",
+				"contacts_loaded"
+			],
+			[
+				"no",
+				"notfirst"
+			],
+			[
+				"ge",
+				"getHours"
+			],
+			[
+				"d",
+				"dialogData"
+			],
+			[
+				"ala",
+				"alarms"
+			],
+			[
+				"e",
+				"express"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"r",
+				"result_status"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"p",
+				"progress_bar"
+			],
+			[
+				"progress",
+				"progress-bar"
+			],
+			[
+				"i",
+				"info"
+			],
+			[
+				"send",
+				"sendSocketNotification"
+			],
+			[
+				"sch",
+				"shecams"
+			],
+			[
+				"sh",
+				"schema"
+			],
+			[
+				"m",
+				"modulePath"
+			],
+			[
+				"json",
+				"JSON"
+			],
+			[
+				"ed",
+				"editor_class"
+			],
+			[
+				"o",
+				"options"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"pa",
+				"prasersjson"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"y",
+				"yepNope"
+			],
+			[
+				"in",
+				"intent"
+			],
+			[
+				"mi",
+				"missingOrigin"
+			],
+			[
+				"ro",
+				"routeDest"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1906,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 144,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1504,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.php",
+			"settings":
+			{
+				"buffer_size": 1120,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ticket.html",
+			"settings":
+			{
+				"buffer_size": 1677,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nAngularJS\n---------\n\n  AngularJS 1.0.0\n  --------------------\n  \n  This version of AngularJS is now a merge of the following two packages:\n  AngularJS - http://deansofer.com/projects/view/74/AngularJs_tmbundle\n  AngularJS Attributes Completion - http://subhaze.github.io/angularjs-attributes\n  \n  This new package provides similar functionality of the two but with added features and options.\n  \n  Some of the added features are:\n  - Quick Panel search of directives/controllers/filters/etc...\n  - GoTo definition for directives\n  - GoToDocs for core AngularJS directives\n  - Directive completions for your custom defined directives\n  \n  To find out more checkout the readme at https://github.com/angular-ui/AngularJS-sublime-package\n  \n  Report issues at https://github.com/angular-ui/AngularJS-sublime-package/issues\n\n\nSublimeLinter-phplint\n---------------------\n\n  SublimeLinter-phplint\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to phplint.\n  \n  ** IMPORTANT! **\n  \n  Before this plugin will activate, you *must*\n  follow the installation instructions here:\n  \n  https://github.com/SublimeLinter/SublimeLinter-phplint\n\n\nSublimeLinter\n-------------\n\n  \n    ____        _     _ _                _     _       _\n   / ___| _   _| |__ | (_)_ __ ___   ___| |   (_)_ __ | |_ ___ _ __\n   \\___ \\| | | | '_ \\| | | '_ ` _ \\ / _ \\ |   | | '_ \\| __/ _ \\ '__|\n    ___) | |_| | |_) | | | | | | | |  __/ |___| | | | | ||  __/ |\n   |____/ \\__,_|_.__/|_|_|_| |_| |_|\\___|_____|_|_| |_|\\__\\___|_|\n  \n  \n  Welcome to SublimeLinter, a linter framework for Sublime Text 3.\n  \n                   * * * IMPORTANT! * * *\n  \n          SublimeLinter 3 is NOT a drop-in replacement for\n          earlier versions.\n  \n          Linters *NOT* included with SublimeLinter 3, \n          they must be installed separately.\n  \n          The settings are different.\n  \n                  * * * READ THE DOCS! * * *\n  \n  Otherwise you will never know how to install linters, nor will\n  you know about all of the great new features in SublimeLinter 3.\n  \n  For complete documentation on how to install and use SublimeLinter,\n  please see:\n  \n  http://www.sublimelinter.com\n  \n  \n                   _   _      _       _\n                  | | | | ___| |_ __ | |\n                  | |_| |/ _ \\ | '_ \\| |\n                  |  _  |  __/ | |_) |_|\n                  |_| |_|\\___|_| .__/(_)\n                               |_|\n  \n  \n  Hundreds of hours have been spent writing and documenting SublimeLinter\n  to make it the best it can be — easy to use, easy to configure,\n  easy to update, easy to extend. If you use SublimeLinter and feel\n  it is making your coding life better and easier, please consider\n  making a donation to help fund development and support.\n  \n  To donate: https://github.com/SublimeLinter/SublimeLinter3#share-the-love\n  \n  Thank you!\n",
+			"settings":
+			{
+				"buffer_size": 2921,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/itay/Downloads/phplint-3.0_20160307/phplint-3.0_20160307/php",
+			"settings":
+			{
+				"buffer_size": 652,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/itay/Downloads/phplint-3.0_20160307/phplint-3.0_20160307/phpl",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/itay/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 356.0,
+		"last_filter": "tog",
+		"selected_items":
+		[
+			[
+				"tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"lint mo",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"subli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lin",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"angula",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimerge com",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"sublimerge",
+				"Sublimerge: Show Uncommited Changes..."
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"alignme",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 522.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/itay/Downloads/phplint-3.0_20160307/phplint-3.0_20160307/TODO.txt",
+		"/home/itay/Downloads/phplint-3.0_20160307/phplint-3.0_20160307/VERSION.txt",
+		"/home/srv/http/angular/.jshintrc",
+		"/home/itay/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/srv/http/angular/server.php",
+		"/home/itay/Documents/עבודה/Capital Camps/Camp_Forms_Completion_Guide_2017.pdf",
+		"/home/srv/http/angular/readme.md",
+		"/home/srv/http/wp-content/plugins/responsive-mobile-friendly-tooltip/responsive-tooltip.css",
+		"/home/srv/http/wp-content/plugins/responsive-mobile-friendly-tooltip/responsive-tooltip.js",
+		"/home/itay/itayxd/RMFtooltip-WP-plugin/trunk/responsive-tooltip-tinyMCE.js",
+		"/home/itay/itayxd/RMFtooltip-WP-plugin/trunk/responsive-tooltip.php",
+		"/home/itay/itayxd/RMFtooltip-WP-plugin/trunk/readme.txt",
+		"/home/srv/http/wp-content/plugins/responsive-mobile-friendly-tooltip/responsive-tooltip.php",
+		"/home/itay/itayxd/openshift-itayxd/.openshift/themes/novatorix/config.rb",
+		"/home/itay/.local/share/applications/tresorit.desktop",
+		"/home/itay/.local/share/applications/ScoutApp.desktop",
+		"/home/itay/itayxd/openshift-itayxd/.openshift/themes/novatorix/style.css",
+		"/home/itay/Downloads/LIN64_Scout-App_2.12.12/Scout-App/package.json",
+		"/home/itay/Downloads/LIN64_Scout-App_2.12.12/Scout-App/PKGBUILD",
+		"/home/itay/Downloads/LIN64_Scout-App_2.12.12/Scout-App/License/Scout-App License.md",
+		"/home/itay/itayxd/openshift-itayxd/.openshift/themes/novatorix/Guardfile",
+		"/home/itay/itayxd/openshift-itayxd/.openshift/themes/novatorix/sass/style.scss",
+		"/home/itay/itayxd/openshift-itayxd/php/.gitkeep",
+		"/home/itay/.cache/.fr-ZgFH4D/content/firefox.js",
+		"/home/itay/.mozilla/firefox/manjaro.default/extensions/{ea4637dc-e014-4c17-9c2c-879322d23268}/content/GoogleLogin.js",
+		"/home/itay/itayxd/RMFtooltip-WP-plugin/trunk/responsive-tooltip.js",
+		"/home/srv/http/wp-config.php",
+		"/etc/httpd/conf/httpd.conf",
+		"/home/itay/itayxd/RMFtooltip-WP-plugin/trunk/test.html",
+		"/home/itay/srv/http/test.php",
+		"/home/itay/itayxd/RMFtooltip-WP-plugin/trunk/responsive-tooltip-dialog.css",
+		"/home/itay/itayxd/RMFtooltip-WP-plugin/trunk/responsive-tooltip-admin-page.php",
+		"/home/itay/itayxd/RMFtooltip-WP-plugin/trunk/index.html",
+		"/home/itay/itayxd/RMFtooltip-WP-plugin/trunk/responsive-tooltip.org.css",
+		"/home/itay/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+		"/home/itay/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/itay/repos/cortanabot/app1.js",
+		"/home/itay/repos/cortanabot/node_modules/botbuilder/lib/dialogs/EntityRecognizer.js",
+		"/home/itay/repos/cortanabot/node_modules/simple-telegram/lib/simple-telegram.js",
+		"/home/itay/repos/cortanabot/lib/intents/calendar/calendar.js",
+		"/home/itay/repos/cortanabot/app.js",
+		"/home/itay/repos/cortanabot/lib/intents/calander/client_secret.json",
+		"/home/itay/repos/cortanabot/lib/intents/calander/calender.js",
+		"/home/itay/repos/cortanabot/lib/intents/calander/client_secret.json.json",
+		"/home/itay/repos/cortanabot/node_modules/botbuilder/lib/dialogs/IntentDialog.js",
+		"/home/itay/repos/cortanabot/node_modules/botbuilder/lib/deprecated/CommandDialog.js",
+		"/home/itay/.config/sublime-text-3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/home/itay/repos/cortanabot/node_modules/chrono-node/chrono.map.json",
+		"/home/itay/.config/sublime-text-3/Packages/User/TodoReview.sublime-settings",
+		"/home/itay/repos/cortanabot/node_modules/sshpk/lib/fingerprint.js",
+		"/home/itay/repos/cortanabot/node_modules/botbuilder/lib/bots/Library.js",
+		"/home/itay/repos/cortanabot/node_modules/isarray/build/build.js",
+		"/home/itay/repos/cortanabot/node_modules/botbuilder/lib/utils.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/index.js",
+		"/home/itay/repos/json-editor/dist/jsoneditor.min.js",
+		"/home/itay/repos/MagicMirror/config/config1.js",
+		"/home/itay/repos/MagicMirror/config/config.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/schema.default.json",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/package.json",
+		"/home/itay/repos/MagicMirror/modules/MMM-ModuleScheduler/MMM-ModuleScheduler.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Remote-Control/node_helper.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-ModuleScheduler/node_helper.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/settings.json",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/jsoneditor.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/htmltojs.zsh",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/index.copy.html",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/.gitignore",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/ff.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/untitled.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/node_helper_now.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/.eslintrc.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Traffic/node_helper.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/MMM-Admin-Interface.js",
+		"/home/itay/.oh-my-zsh/themes/agnoster.zsh-theme",
+		"/home/itay/.oh-my-zsh/custom/themes/myagnoster.zsh-theme",
+		"/home/itay/.config/sublime-text-3/Packages/User/Sublimerge Macros.sublime-settings",
+		"/home/itay/.config/sublime-text-3/Packages/Sublimerge 3/Default (Linux).sublime-keymap",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/jj",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/jhh",
+		"/home/itay/.config/sublime-text-3/Cache/Sublimerge.vcs-cache",
+		"/home/itay/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/itay/.bash_history",
+		"/home/itay/.zshrc",
+		"/home/itay/cccc",
+		"/home/itay/repos/MagicMirror/MMenv/bin/activate",
+		"/home/itay/repos/MagicMirror/config/config.json",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/config.json",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/config.real.json",
+		"/home/itay/repos/MagicMirror/CHANGELOG.md",
+		"/home/itay/repos/MagicMirror/config/config.js.sample",
+		"/home/itay/repos/MagicMirror/.gitignore",
+		"/home/itay/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/itay/repos/MagicMirror/config/config.real.json",
+		"/home/itay/repos/MagicMirror/modules/MMM-Remote-Control/MMM-Remote-Control.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-Interface/MMM-Admin-Interface.sublime-project",
+		"/home/itay/.config/sublime-text-3/Packages/Terminal/Base File.sublime-settings",
+		"/home/itay/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/itay/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/itay/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-interface/index.html",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-interface/node_helper.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-interface/mmm-admin-interface.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-interface/package.json",
+		"/home/itay/repos/json-editor/src/core.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-interface/jsoneditor.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-interface/jsoneditor.min.js",
+		"/home/itay/repos/MagicMirror/js/server.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-interface/mmm-admin-interface",
+		"/home/itay/repos/MagicMirror/js/app.js",
+		"/home/itay/repos/MagicMirror/js/main.js",
+		"/home/itay/repos/MagicMirror/config.json",
+		"/home/itay/repos/MagicMirror/modules/MMM-Admin-interface/config.html",
+		"/home/itay/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+		"/home/itay/repos/MagicMirror/modules/MMM-Traffic/MMM-Traffic.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-ShipmentTracking/node_helper.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-ShipmentTracking/Tracker.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-ShipmentTracking/MMM-ShipmentTracking.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Remote-Control/remote.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-Remote-Control/settings.json",
+		"/home/itay/repos/MagicMirror/modules/MMM-Remote-Control/remote.html",
+		"/home/itay/repos/MagicMirror/modules/MMM-Remote-Control/package.json",
+		"/home/itay/repos/MagicMirror/modules/MMM-ShipmentTracking/carriers/Landmark.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-ShipmentTracking/carriers/DHL.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-ShipmentTracking/carriers/17track.js",
+		"/home/itay/repos/MagicMirror/modules/MMM-ShipmentTracking/package.json",
+		"/home/itay/repos/MagicMirror/modules/default/defaultmodules.js",
+		"/home/itay/repos/MagicMirror/css/custom.css",
+		"/home/itay/repos/MagicMirror/fonts/assistant.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<current file>",
+			"/home/itay/repos/MagicMirror/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"$httpProvider",
+			"}}",
+			"subject}}</",
+			"}}",
+			"{{",
+			">{{.subject",
+			"{{.",
+			"ticket",
+			"td",
+			"app",
+			"scotchApp",
+			"eventIn",
+			"blur",
+			"focus",
+			"preventDefault",
+			"event",
+			"preventDefault",
+			"        target.focus();",
+			"'blur",
+			"trigger",
+			"focus",
+			"bind",
+			"Tresorit",
+			"src",
+			"RMFtooltip_tip",
+			"jqu",
+			"1.6",
+			"requi",
+			"datetimeDateEntities",
+			"timestamp",
+			"time",
+			"INVOKED",
+			"/*var intent = args.intent;*/",
+			"var",
+			"        /*",
+			"/*var intent = args.intent;*/",
+			"google",
+			"read",
+			"cala",
+			"calende",
+			"cala",
+			"oauth2Client",
+			"authorized",
+			"authorize",
+			"Authorize",
+			"authorize",
+			"auth",
+			"listEvents",
+			"\n    ",
+			"(),\n",
+			"listEvents",
+			"auth",
+			"url",
+			"read",
+			"fs",
+			"listEvents",
+			"getToken",
+			"authUrl",
+			"getNewToken",
+			" authorize(",
+			"Authorize",
+			"authorize",
+			"callback",
+			"listEvents",
+			"todo",
+			"log",
+			"console",
+			"blue",
+			"matches",
+			"phoneRes",
+			"session",
+			"*",
+			"-",
+			"indexOf",
+			"timestamp",
+			"session.dialogData.alarms",
+			"session.dialogData.alarm",
+			"alarms",
+			"\\n\" +",
+			"starting_value",
+			"startingValue",
+			"{{starting_value}}",
+			"modulePath",
+			"notificationReceived",
+			"getValue",
+			"ref",
+			"(\\S*),",
+			"(\\S)*,",
+			"top_bar, top_left, top_center, top_right, upper_third, middle_center, lower_third, bottom_left, bottom_center, bottom_right, bottom_bar, fullscreen_above, fullscreen_below",
+			"(\\S*),",
+			"(.*),",
+			"(.*)\\,",
+			"(.*),",
+			">\n",
+			"error",
+			"configPath",
+			"fs",
+			"submit",
+			"validate",
+			"xmlhttp",
+			"configPath",
+			"self",
+			"noti",
+			"schema",
+			"bo-ya",
+			"notificationRe",
+			"send",
+			"\n\t",
+			"}\n",
+			"getCommute",
+			"notifiaction",
+			"send",
+			"leaveBy",
+			"sendNotification",
+			"MMM",
+			"sched",
+			"config.jso",
+			"schema",
+			"shecams",
+			"notificationreceived",
+			"notificationReceived",
+			"ajax",
+			" \"/modules/MMM-Admin-Interface/",
+			"configDir",
+			"Dir",
+			"\\n\\",
+			"\\\"",
+			"\\n\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"th",
+			"on",
+			"ScoutApp",
+			"",
+			"startingValue",
+			"\"$1\",",
+			"\"$1\"",
+			"xhr",
+			" modulePath + \"",
+			"",
+			"\"",
+			"",
+			"\\\"",
+			"\\\\n\\",
+			"\\n\\",
+			"\\",
+			"configDir + \"config",
+			"\\n\"+",
+			"\"",
+			"Light",
+			"Bold",
+			"Regular",
+			"true",
+			"['chkbx_replace_css']",
+			"['textarea_css']",
+			"['chkbx_use_custom_css']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "server.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ticket.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								877,
+								877
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1170,
+								1170
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/itay/Downloads/phplint-3.0_20160307/phplint-3.0_20160307/php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/itay/Downloads/phplint-3.0_20160307/phplint-3.0_20160307/phpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/itay/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1031,
+								1031
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 88.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"chrono-node/chrono",
+				"node_modules/chrono-node/chrono.map.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/repos/MagicMirror/modules/MMM-Admin-Interface/MMM-Admin-Interface.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

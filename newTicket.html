@@ -1,0 +1,34 @@
+<form class="panel panel-primary" ng-submit="createTicket()">
+	<div class="panel-heading">
+		<div class="row">
+		    <h3 class="col-md-8">New Support Ticket</h3>
+		    <div class="col-md-2 form-group">
+		    	<select ng-model="usr" class="form-control">
+		    		<option>User1</option>
+		    		<option>Support</option>
+		    	</select>
+		    </div>
+		    <div class="col-md-2 form-group">
+		    	<select ng-model="prio" class="form-control">
+		    		<option>High</option>
+		    		<option>Medium</option>
+		    		<option>Low</option>
+		    	</select>
+		    </div>
+	  	</div>
+	</div>
+	<div class="panel-body">	
+		<div class="form-group">
+			<label for="ticketSubject">Subject</label>
+			<input type="text" ng-model="sbj" id="ticketSubject" class="form-control" placeholder="What's wrong?">
+			<label for="ticketContent">Details</label>
+			<textarea ng-model="cntnt" class="form-control" rows="3" id="ticketContent" placeholder="Describe your problem in details here"></textarea>
+		</div>
+		<div class="form-group">
+			<div class="col-md-offset-11 col-md-1">
+			 	<button type="submit" class="btn btn-primary">Send!</button>
+			 	{{json}}
+			</div>
+		</div>
+	</div>
+</form>
