@@ -1,13 +1,15 @@
  var app = angular.module('app', ['ngRoute', 'ngAnimate', 'ngSanitize']);
 
 //Get all tickets
-app.controller('getTickets', function($http, $scope, $rootScope) {
+app.controller('tickets', function($http, $scope, $rootScope) {
     $http.get('server.php?alltickets=true')
     .then(function (res) {
       $scope.tickets = res.data;
-      $rootScope.tickets = $scope.tickets;
     }, function (err) {
       console.log(err);
+    });
+    $scope.$on('newTicket', function (event, args) {
+      $scope.tickets.push(args.ticket);
     });
 });
 
@@ -53,7 +55,8 @@ app.controller('newTicket', function($scope, $rootScope, $http, $httpParamSerial
       }
     })
       .then (function success (res) {
-        $rootScope.tickets.push(res.data);
+//        $rootScope.tickets.push(res.data);
+          $scope.$emit('newTicket', {ticket: res.data});
       }, function fail (res) {
         console.log(res);
         $scope.json =res;

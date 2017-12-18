@@ -1,9 +1,12 @@
 # Angular-Support-Ticket-System
+
 ##Security
 1. Avoiding SQLi by using PDO with prepare function.
 1. Angular always escape HTML, and when HTML isn't escaped ng-sanitize is used.
+
 ##Style
 Bootstrap is used exclusively.
+
 ##Notes - Important
 * Using MariaDB for SQL database.
 * Database includes triggers and custom settings, so make sure to checkout the included `test.sql`.

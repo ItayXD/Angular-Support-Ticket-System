@@ -12,7 +12,7 @@
 	<script src="/angular/app.js"></script>
 	<base href="/angular/index.html">
 </head>
-<body ng-controller="getTickets">
+<body>
 		<header>
 				<nav class="navbar navbar-default">
 				<div class="container">
@@ -29,8 +29,8 @@
 				</nav>
 		</header>
 
-		<div class="container">
-			<div class="table-responsive"">
+		<div class="container" ng-controller="tickets">
+			<div class="table-responsive">
 			<table class="table">
 				<tr>
 					<th>ID #</th>
